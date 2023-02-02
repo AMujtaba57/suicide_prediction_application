@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+*/workspace.xml
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+*.py[cod]
+*$py.class
+*.idea
+*.so
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+*/__pypackages__/
+fyp_project/account_app/migrations/*
+fyp_project/assets/admin/*
+fyp_project/static/admin/*
